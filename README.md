@@ -3,16 +3,13 @@
 Compressing your code is one of the best practices that you can do, because it allows the server to run your project faster and more efficiently. So, the goal of this tutorial is to help you to do that.
 
 __First of all, if you don't know how to create a project or install Rails on your machine, check the link bellow:__
-```
-https://gorails.com/setup/ubuntu/16.04
-```
+
+[https://gorails.com/setup/ubuntu/16.04](https://gorails.com/setup/ubuntu/16.04)
 
 I´m using Ubuntu to develop because it's easier to create and manage the project. Feel free to use other OS of your choice.
 
 ## Required gems:
-```
-[htmlcompressor](https://rubygems.org/gems/htmlcompressor)
-```
+- [htmlcompressor](https://rubygems.org/gems/htmlcompressor)
 
 Well, after the project is created, you'll need to add the gem 'htmlcompressor' on Gemfile:
 ```
@@ -27,8 +24,7 @@ gem install htmlcompressor
 With this, the project will have the gem activated.
 After this you can create a Library element, which I name __MyCompressor__
 
-lib/MyCompressor.rb
----
+__lib/MyCompressor.rb__
 ```
 class MyCompressor
 
