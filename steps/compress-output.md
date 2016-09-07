@@ -1,4 +1,4 @@
-# How to compress project code in Ruby on Rails.
+﻿# How to compress project code in Ruby on Rails.
 
 Compressing your code is one of the best practices that you can do, because it allows the server to run your project faster and more efficiently. So, the goal of this tutorial is to help you to do that.
 
@@ -43,7 +43,7 @@ def compress(source)
 	return source.gsub("\n", ' ').squeeze(' ')
 end
 ```
-__gsub__ will remove all breaklines on code, insert spaces.
+__gsub__ will remove all breaklines on code and insert spaces.
 
 __squeeze__ will remove all duplicate spaces between the data.
 
