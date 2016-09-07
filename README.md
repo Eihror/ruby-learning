@@ -1,3 +1,3 @@
 ﻿# Step by step to work with Ruby
 
-[Compress Output](../steps/compress-output.md)
+[Compress Output](steps/compress-output.md)
