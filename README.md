@@ -46,4 +46,4 @@ But I be making tutorials that will allow easy and efficient understanding of ho
 
 ## Functions, Helpers and tutorials to make your project better
 
-[Compress Output](steps/compress-output.md)
+ - [Compress Output](steps/compress-output.md)
