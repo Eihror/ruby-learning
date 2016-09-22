@@ -21,14 +21,21 @@ How would i be able to start working with Ruby?.
 
 __How to proceed?__
 
-First you will need a Virtual Machine, such as [Virtual Box] (https://www.virtualbox.org/).
+First you will need a Virtual Machine, such as [Virtual Box] (https://www.virtualbox.org/)
+
 Secondly you will have to download the .iso of latest version of [Ubuntu] (http://www.ubuntu.com/)
+
 After this, you have your machine ready to work with Ruby.
 
 PHP has an enormous variety of frameworks to choose from, Ruby has it's own, and it's called [Rails] (http://rubyonrails.org/).
 
 ```
-Ruby on Rails, or simply Rails, is a server-side web application framework written in Ruby under the MIT License. Rails is a model–view–controller (MVC) framework, providing default structures for a database, a web service, and web pages. It encourages and facilitates the use of web standards such as JSON or XML for data transfer, and HTML, CSS and JavaScript for display and user interfacing. In addition to MVC, Rails emphasizes the use of other well-known software engineering patterns and paradigms, including convention over configuration (CoC), don't repeat yourself (DRY), and the active record pattern.
+Ruby on Rails, or simply Rails, is a server-side web application framework written in Ruby under the MIT License.
+Rails is a model–view–controller (MVC) framework, providing default structures for a database, a web service, and web pages.
+It encourages and facilitates the use of web standards such as JSON or XML for data transfer, and HTML, CSS and JavaScript
+for display and user interfacing. In addition to MVC, Rails emphasizes the use of other well-known software engineering
+patterns and paradigms, including convention over configuration (CoC), don't repeat yourself (DRY), and the active record
+pattern.
 ```
 
 And to be able use it you will have to install following this [https://gorails.com/setup/ubuntu/16.04] (https://gorails.com/setup/ubuntu/16.04)
