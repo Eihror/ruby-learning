@@ -13,26 +13,30 @@ Remeber, this is my opinion about Ruby.
 
 But let's get down to business.
 
-First of all. Which is the best OS to work with Ruby?
+__First of all. Which is the best OS to work with Ruby?__
 
 In my research, I've discovered that Linux is the best OS to do that. 
 But what if i am a Windows User? 
 How would i be able to start working with Ruby?.
 
-How to proceed?
+__How to proceed?__
 
-First you will need a Virtual Machine, such as Virtual Box (https://www.virtualbox.org/).
-Secondly you will have to download the .iso of latest version of Ubuntu (http://www.ubuntu.com/)
+First you will need a Virtual Machine, such as [Virtual Box] (https://www.virtualbox.org/).
+Secondly you will have to download the .iso of latest version of [Ubuntu] (http://www.ubuntu.com/)
 After this, you have your machine ready to work with Ruby.
 
-PHP has an enormous variety of frameworks to choose from, Ruby has it's own, and it's called Rails (http://rubyonrails.org/).
+PHP has an enormous variety of frameworks to choose from, Ruby has it's own, and it's called [Rails] (http://rubyonrails.org/).
 
+```
 Ruby on Rails, or simply Rails, is a server-side web application framework written in Ruby under the MIT License. Rails is a model–view–controller (MVC) framework, providing default structures for a database, a web service, and web pages. It encourages and facilitates the use of web standards such as JSON or XML for data transfer, and HTML, CSS and JavaScript for display and user interfacing. In addition to MVC, Rails emphasizes the use of other well-known software engineering patterns and paradigms, including convention over configuration (CoC), don't repeat yourself (DRY), and the active record pattern.
+```
 
-And to be able use it you will have to install following this (https://gorails.com/setup/ubuntu/16.04)
+And to be able use it you will have to install following this [https://gorails.com/setup/ubuntu/16.04] (https://gorails.com/setup/ubuntu/16.04)
 
-Now with the guide of Rails (http://guides.rubyonrails.org/) you can learn a bunch of stuff.
+Now with the [Guide of Rails] (http://guides.rubyonrails.org/) you can learn a bunch of stuff.
 
 But I be making tutorials that will allow easy and efficient understanding of how to work with it.
+
+## Functions, Helpers and tutorials to make your project better
 
 [Compress Output](steps/compress-output.md)
