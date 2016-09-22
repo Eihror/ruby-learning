@@ -44,6 +44,6 @@ Now with the [Guide of Rails] (http://guides.rubyonrails.org/) you can learn a b
 
 But I be making tutorials that will allow easy and efficient understanding of how to work with it.
 
-## Functions, Helpers and tutorials to make your project better
+## Functions, Helpers and Tutorials to make your project better
 
  - [Compress Output](steps/compress-output.md)
