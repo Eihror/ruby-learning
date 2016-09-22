@@ -1,4 +1,4 @@
-# Step by step to work with Ruby
+# Working with Ruby
 
 I've been working with PHP for over 5 years, but one day I have decided that I wanted to learn more languages to expand my programming knowledge. 
 
